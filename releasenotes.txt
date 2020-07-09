@@ -1,10 +1,11 @@
-<<<<<<< HEAD
+
+Versie 6 zijn we nu aan aan het werken vanaf de master.
+Maar versie 5.01 en versie 5.02 willen we wel meenemen.
 
 Versie 5.02 Dit is versie 5.02
 Versie 5.01 Dit is versie 5.01
 =======
-Versie 6 zijn we nu aan aan het werken vanaf de master.
-Maar versie 5.01 en versie 5.02 willen we wel meenemen.
+
 
 
 Versie 5 bevat een zonnetje
