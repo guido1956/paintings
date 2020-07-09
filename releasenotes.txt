@@ -1,2 +1,4 @@
+Versie 5 bevat een zonnetje
+
 Met versie 4 is er nu documentatie die synchroonloop met die versies. 
 Er is nu een tekening die bestaat uit een huis met dak een kabouter en een auto.
