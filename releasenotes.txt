@@ -1,3 +1,7 @@
+Versie 6 zijn we nu aan aan het werken vanaf de master.
+Maar versie 5.01 en versie 5.02 willen we wel meenemen.
+
+
 Versie 5 bevat een zonnetje
 
 Met versie 4 is er nu documentatie die synchroonloop met die versies. 
